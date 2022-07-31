@@ -7,8 +7,8 @@ namespace SnakeAndLadder
         
         public static void Main()
         {
-        Console.WriteLine("Welcome to game of snake and ladder");
-        
+        Console.WriteLine(" Snake And Ladder Start With Zero");
+        StartWithZero.Checkstartwithzero();
         }
     }
 }
