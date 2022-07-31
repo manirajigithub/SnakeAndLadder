@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\bin\Debug\net6.0\Snake And Ladder Uc1.exe
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\bin\Debug\net6.0\Snake And Ladder Uc1.deps.json
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\bin\Debug\net6.0\Snake And Ladder Uc1.runtimeconfig.json
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\bin\Debug\net6.0\Snake And Ladder Uc1.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\bin\Debug\net6.0\Snake And Ladder Uc1.pdb
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.AssemblyInfo.cs
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\refint\Snake And Ladder Uc1.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.pdb
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\Snake And Ladder Uc1.genruntimeconfig.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\UC1 StartWith0\obj\Debug\net6.0\ref\Snake And Ladder Uc1.dll
