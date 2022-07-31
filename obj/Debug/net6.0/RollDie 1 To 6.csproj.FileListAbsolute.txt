@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\bin\Debug\net6.0\RollDie 1 To 6.exe
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\bin\Debug\net6.0\RollDie 1 To 6.deps.json
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\bin\Debug\net6.0\RollDie 1 To 6.runtimeconfig.json
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\bin\Debug\net6.0\RollDie 1 To 6.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\bin\Debug\net6.0\RollDie 1 To 6.pdb
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.AssemblyInfo.cs
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\refint\RollDie 1 To 6.dll
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.pdb
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\RollDie 1 To 6.genruntimeconfig.cache
+C:\Users\mani1\source\repos\UC1 StartWith0\RollDie 1 To 6\obj\Debug\net6.0\ref\RollDie 1 To 6.dll
