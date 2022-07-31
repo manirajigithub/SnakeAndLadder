@@ -3,12 +3,12 @@ namespace SnakeAndLadder
 {
     class program
     {
-        public static string CheckOption { get; private set; }
+        
 
-        public static void Main()
+        public static void Main(string[] args)
         {
-            Console.WriteLine("CheckOption " + CheckOption);
-            CheckOption.CheckOption();
+            Console.WriteLine("CheckPosition " + CheckPosition);
+            CheckPosition.CheckPosition();
         }
     }
 }
